@@ -1,4 +1,4 @@
-// Eat-Da-Burger - burger.js - UW Coding Bootcamp - Week 14 Homework
+// Eat-Da-Burger - connection.js - UW Coding Bootcamp - Week 14 Homework
 
 // Required dependencies
 var mysql = require('mysql');
