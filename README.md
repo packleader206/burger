@@ -28,6 +28,6 @@ User can eat/devour any burger from the "Burgers Available" list by clicking on 
 
 ## Screenshots:
             
- <img src="https://packleader206.github.io/burger/public/assets/img/screenshot.png" alt="Home Page Screenshot">
+ <img src="https://packleader206.github.io/burger/public/assets/img/screenshot.png" alt="Screenshot">
  
  <br>
