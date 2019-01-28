@@ -10,9 +10,9 @@ var burger = require('../models/burger.js');
 //Setup Routes
 
 // Index Redirect
-// router.get('/', function (req, res) {
-//   res.redirect('/index');
-// });
+router.get('/', function (req, res) {
+  res.redirect('/index');
+});
 
 // Index Page 
 router.get('/index', function (req, res) {

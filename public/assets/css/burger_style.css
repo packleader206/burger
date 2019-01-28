@@ -1,0 +1,16 @@
+/* Eat-Da-Burger - burger_style.css - UW Coding Bootcamp - Week 14 Homework */
+
+.page {
+    margin: 20px 80px 20px 80px;
+    background-color: rgb(196, 191, 191);
+    background-image: URL("../img/wallpaper8.png");
+}
+
+.jumbotron {
+    background-color: rgb(219, 62, 62);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
