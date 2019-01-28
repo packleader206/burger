@@ -20,13 +20,13 @@ Eat-Da-Burger demonstrates a simple full-stack application that allows you to cr
 <strong>Al Young</strong>
 <hr>
 
-## [Click Here for a Live Demo](https://blooming-taiga-51598.herokuapp.com)
-
 ## Instructions:
 
-User can eat/devour any burger from the "Burgers Available" list by clicking on the "Devour It!" button.  Once devoured, the burger will no longer be available to eat and moved to the "Burgers Devoured" list.  If user wants a specific burger, he/she can add the burger of their choosing to the "Burgers Available" list by filling out the "Request a New Burger" field and hitting the "Make My Burger" button.  
+User can eat any burger from the "Burgers Available" list by clicking on the "Devour It!" button.  Once devoured, the burger will no longer be available to eat and moved to the "Burgers Devoured" list.  If user wants a specific burger, he/she can add the burger of their choosing to the "Burgers Available" list by filling out the "Request a New Burger" field and hitting the "Make My Burger" button.  
 
-## Screenshots:
+## [Click Here for a Live Demo](https://blooming-taiga-51598.herokuapp.com)
+
+## Screenshot:
             
  <img src="https://packleader206.github.io/burger/public/assets/img/screenshot.png" alt="Screenshot">
  
