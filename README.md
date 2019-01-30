@@ -26,27 +26,29 @@ To run this application, you will need <a href="https://nodejs.org/en/download/"
 
 <strong>MySQL Database Setup:</strong>
 
-Once you have MySQL installed, you will need to create the Bamazon database with the SQL code found here in the <a href="https://github.com/packleader206/Bamazon/blob/master/bamazon.sql">bamazon.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workench here</a>.
+Once you have MySQL installed, you will need to create the burgers_db database with the SQL code found here in the <a href="https://github.com/packleader206/burger/blob/master/burger.sql">burger.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workench here</a>.
 
 <strong>Once you have the Bamazon database set up, run the following commands at your command prompt:</strong>
 
-           1. git clone https://github.com/packleader206/Bamazon.git ENTER
+           1. git clone https://github.com/packleader206/burger.git ENTER
            
-           2. cd bamazon ENTER
+           2. cd burger ENTER
            
            3. npm install ENTER
+           
+<strong>Then, navigate to the "config" folder and open up the file named "connection.js".  Make sure the "port" (line 18) and "password" (line 21) are correctly set for use with the SQL database you set up.             
                       
            
 ## Running the App:
 
-To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select:
+           1. Start the server by running the command "node server.js"
+           
+           2. Open the local app in your browser by going to "http://localhost:8080/"
 
 
 ## Instructions:
 
-User can eat any burger from the "Burgers Available" list by clicking on the "Devour It!" button.  Once devoured, the burger will no longer be available to eat and moved to the "Burgers Devoured" list.  If user wants a specific burger, he/she can add the burger of their choosing to the "Burgers Available" list by filling out the "Request a New Burger" field and hitting the "Make My Burger" button.  
-
-## [Click Here for a Live Demo](https://desolate-cove-56952.herokuapp.com/)
+User can eat any burger from the "Burgers Available" list by clicking on the "Devour It!" button.  Once devoured, the burger will no longer be available to eat and moved to the "Burgers Devoured" list.  If user wants a specific burger, he/she can add the burger of their choosing to the "Burgers Available" list by filling out the "Request a New Burger" field and hitting the "Make My Burger" button. 
 
 ## Screenshot:
             
