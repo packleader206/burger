@@ -3,6 +3,8 @@
 // Required dependencies
 var mysql = require('mysql');
 
+// require('dotenv').config();
+
 // Create the MySQL connection object
 var connection;
 
