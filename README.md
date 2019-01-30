@@ -36,14 +36,14 @@ Once you have MySQL installed, you will need to create the burgers_db database w
            
            3. npm install ENTER
            
-<strong>Then, navigate to the "config" folder and open up the file named "connection.js".  Make sure the "port" (line 18) and "password" (line 21) are correctly set for use with the SQL database you set up.             
+<strong>Then, navigate to the "config" folder and open up the file named "connection.js".  Make sure the "port" (line 18) and "password" (line 21) are correctly set for use with the SQL database you set up.  Once the "port" and "password" are set to match your database, save the file.  You are now ready to run the App!             
                       
            
 ## Running the App:
 
            1. Start the server by running the command "node server.js"
            
-           2. Open the local app in your browser by going to "http://localhost:8080/"
+           2. Then open your browser and go to "http://localhost:8080/"
 
 
 ## Instructions:
