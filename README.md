@@ -28,7 +28,7 @@ To run this application, you will need <a href="https://nodejs.org/en/download/"
 
 Once you have MySQL installed, you will need to create the burgers_db database with the SQL code found here in the <a href="https://github.com/packleader206/burger/blob/master/burger.sql">burger.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workench here</a>.
 
-<strong>Once you have the Bamazon database set up, run the following commands at your command prompt:</strong>
+<strong>Once you have the burgers_db database set up, run the following commands at your command prompt:</strong>
 
            1. git clone https://github.com/packleader206/burger.git ENTER
            
